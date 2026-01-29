@@ -4,23 +4,23 @@ This repository contains manual test cases for the Symlex VPN web application, f
 
 📌 Product Information
 
-Product Name: Symlex VPN
+*Product Name: Symlex VPN
 
-Module Tested: App Home Page / My Account
+*Module Tested: App Home Page / My Account
 
-Test Type: Manual Testing
+*Test Type: Manual Testing
 
-Browser Tested: Yes
+*Browser Tested: Yes
 
-Performance Tested: Yes
+*Performance Tested: Yes
 
- Test Ownership
+*Test Ownership
 
-Test Case Developed By: Md Ruhul Kibria Maruf
+*****Test Case Developed By: Md Ruhul Kibria Maruf
 
-Test Case Reviewed By: Md Ruhul Kibria Maruf
+*****Test Case Reviewed By: Md Ruhul Kibria Maruf
 
-Test Executed By: Md Ruhul Kibria Maruf
+*****Test Executed By: Md Ruhul Kibria Maruf
 
 🗓 Test Timeline
 
@@ -54,6 +54,6 @@ TC Start Date: 24/12/2022
 
 📝 Notes
 
-All test cases were executed on the Symlex VPN production website
+**********All test cases were executed on the Symlex VPN production website*********
 
 No critical failures were found during this test cycle
